@@ -1,4 +1,5 @@
-## Project: Diwali Sales Data Analysis
+
+# Diwali Sales Data Analysis
 
 ## Objective: 
 Conducted a detailed analysis of sales and customer data during the Diwali season to uncover actionable insights, optimize marketing strategies, and improve inventory planning for enhanced business outcomes.
